@@ -2,8 +2,8 @@
   "Jio": [
     {
       "operatorName": "Jio",
-      "name": "UNLIMITED DATA (1 Days)",
-      "price": 15,
+      "name": "1GB (1 Days)",
+      "price": 19,
       "days": 1,
       "upiId": "jio@axisbank"
     },
@@ -19,20 +19,6 @@
       "name": "3GB (5 Days)",
       "price": 77,
       "days": 5,
-      "upiId": "jio@axisbank"
-    },
-    {
-      "operatorName": "Jio",
-      "name": "3GB (30 Days)",
-      "price": 79,
-      "days": 30,
-      "upiId": "jio@axisbank"
-    },
-    {
-      "operatorName": "Jio",
-      "name": "0.5GB/Day (28 Days)",
-      "price": 86,
-      "days": 28,
       "upiId": "jio@axisbank"
     },
     {
@@ -142,6 +128,13 @@
     },
     {
       "operatorName": "Jio",
+      "name": "2GB/Day (70 Days)",
+      "price": 719,
+      "days": 70,
+      "upiId": "jio@axisbank"
+    },
+    {
+      "operatorName": "Jio",
       "name": "2GB/Day (72 Days)",
       "price": 749,
       "days": 72,
@@ -156,9 +149,16 @@
     },
     {
       "operatorName": "Jio",
-      "name": "2GB/Day (98 Days)",
-      "price": 999,
-      "days": 98,
+      "name": "2GB/Day (90 Days)",
+      "price": 899,
+      "days": 90,
+      "upiId": "jio@axisbank"
+    },
+    {
+      "operatorName": "Jio",
+      "name": "4GB (10 Days)",
+      "price": 951,
+      "days": 10,
       "upiId": "jio@axisbank"
     },
     {
@@ -177,16 +177,9 @@
     },
     {
       "operatorName": "Jio",
-      "name": "Voice + Data Pack (336 Days)",
-      "price": 1748,
-      "days": 336,
-      "upiId": "jio@axisbank"
-    },
-    {
-      "operatorName": "Jio",
-      "name": "2.5GB/Day (200 Days)",
-      "price": 2025,
-      "days": 200,
+      "name": "365GB (365 Days)",
+      "price": 2000,
+      "days": 365,
       "upiId": "jio@axisbank"
     }
   ],
@@ -256,9 +249,9 @@
     },
     {
       "operatorName": "Airtel",
-      "name": "12 GB (30 Days)",
-      "price": 161,
-      "days": 30,
+      "name": "Voice + Data Pack (28 Days)",
+      "price": 185,
+      "days": 28,
       "upiId": "airtel@axisbank"
     },
     {
@@ -277,16 +270,16 @@
     },
     {
       "operatorName": "Airtel",
-      "name": "2GB/Day (28 Days)",
-      "price": 348,
-      "days": 28,
+      "name": "Voice + Data Pack (30 Days)",
+      "price": 206,
+      "days": 30,
       "upiId": "airtel@axisbank"
     },
     {
       "operatorName": "Airtel",
-      "name": "Voice + Data Pack (28 Days)",
-      "price": 349,
-      "days": 28,
+      "name": "50GB (30 Days)",
+      "price": 361,
+      "days": 30,
       "upiId": "airtel@axisbank"
     },
     {
@@ -298,9 +291,16 @@
     },
     {
       "operatorName": "Airtel",
-      "name": "1.5GB/Day (84 Days)",
-      "price": 899,
+      "name": "Voice + Data Pack (84 Days)",
+      "price": 469,
       "days": 84,
+      "upiId": "airtel@axisbank"
+    },
+    {
+      "operatorName": "Airtel",
+      "name": "Voice + Data Pack (56 Days)",
+      "price": 838,
+      "days": 56,
       "upiId": "airtel@axisbank"
     },
     {
@@ -313,14 +313,14 @@
     {
       "operatorName": "Airtel",
       "name": "Voice + Data Pack (84 Days)",
-      "price": 1099,
+      "price": 1199,
       "days": 84,
       "upiId": "airtel@axisbank"
     },
     {
       "operatorName": "Airtel",
-      "name": "Voice + Data Pack (365 Days)",
-      "price": 1849,
+      "name": "30GB (365 Days)",
+      "price": 2249,
       "days": 365,
       "upiId": "airtel@axisbank"
     },
@@ -398,9 +398,16 @@
     },
     {
       "operatorName": "Vi",
-      "name": "4GB (14 Days)",
-      "price": 95,
-      "days": 14,
+      "name": "6GB (3 Days)",
+      "price": 48,
+      "days": 3,
+      "upiId": "vi@axisbank"
+    },
+    {
+      "operatorName": "Vi",
+      "name": "3GB (28 Days)",
+      "price": 69,
+      "days": 28,
       "upiId": "vi@axisbank"
     },
     {
@@ -408,20 +415,6 @@
       "name": "2GB (28 Days)",
       "price": 199,
       "days": 28,
-      "upiId": "vi@axisbank"
-    },
-    {
-      "operatorName": "Vi",
-      "name": "3GB (1 Days)",
-      "price": 218,
-      "days": 1,
-      "upiId": "vi@axisbank"
-    },
-    {
-      "operatorName": "Vi",
-      "name": "4GB (30 Days)",
-      "price": 224,
-      "days": 30,
       "upiId": "vi@axisbank"
     },
     {
@@ -454,13 +447,6 @@
     },
     {
       "operatorName": "Vi",
-      "name": "2GB/Day (28 Days)",
-      "price": 365,
-      "days": 28,
-      "upiId": "vi@axisbank"
-    },
-    {
-      "operatorName": "Vi",
       "name": "2GB/Day (1 Days)",
       "price": 379,
       "days": 1,
@@ -477,6 +463,13 @@
       "operatorName": "Vi",
       "name": "UNLIMITED DATA (28 Days)",
       "price": 435,
+      "days": 28,
+      "upiId": "vi@axisbank"
+    },
+    {
+      "operatorName": "Vi",
+      "name": "UNLIMITED DATA (28 Days)",
+      "price": 449,
       "days": 28,
       "upiId": "vi@axisbank"
     },
@@ -547,9 +540,9 @@
     },
     {
       "operatorName": "BSNL",
-      "name": "Voice + Data Pack (60 Days)",
-      "price": 51,
-      "days": 60,
+      "name": "8GB (7 Days)",
+      "price": 58,
+      "days": 7,
       "upiId": "bsnl@sbi"
     },
     {
@@ -585,6 +578,20 @@
       "name": "1GB/Day (24 Days)",
       "price": 153,
       "days": 24,
+      "upiId": "bsnl@sbi"
+    },
+    {
+      "operatorName": "BSNL",
+      "name": "Voice + Data Pack (28 Days)",
+      "price": 172,
+      "days": 28,
+      "upiId": "bsnl@sbi"
+    },
+    {
+      "operatorName": "BSNL",
+      "name": "Voice + Data Pack (30 Days)",
+      "price": 190,
+      "days": 30,
       "upiId": "bsnl@sbi"
     },
     {
@@ -631,13 +638,6 @@
     },
     {
       "operatorName": "BSNL",
-      "name": "1.5GB/Day (180 Days)",
-      "price": 776,
-      "days": 180,
-      "upiId": "bsnl@sbi"
-    },
-    {
-      "operatorName": "BSNL",
       "name": "32GB (300 Days)",
       "price": 1499,
       "days": 300,
@@ -647,13 +647,6 @@
       "operatorName": "BSNL",
       "name": "2GB/Day (365 Days)",
       "price": 1551,
-      "days": 365,
-      "upiId": "bsnl@sbi"
-    },
-    {
-      "operatorName": "BSNL",
-      "name": "72GB (365 Days)",
-      "price": 2799,
       "days": 365,
       "upiId": "bsnl@sbi"
     }
